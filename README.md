@@ -67,6 +67,14 @@ If you use this for research, please cite the original paper:
 
 
 ```
-@article{sadre_ophus_butko_weber_2021, title={Deep Learning Segmentation of Complex Features in Atomic-Resolution Phase-Contrast Transmission Electron Microscopy Images}, DOI={10.1017/S1431927621000167}, journal={Microscopy and Microanalysis}, publisher={Cambridge University Press}, author={Sadre, Robbie and Ophus, Colin and Butko, Anastasiia and Weber, Gunther H.}, year={2021}, pages={1–11}}
+@article{
+sadre_ophus_butko_weber_2021, 
+title={Deep Learning Segmentation of Complex Features in Atomic-Resolution Phase-Contrast Transmission Electron Microscopy Images}, 
+DOI={10.1017/S1431927621000167}, journal={Microscopy and Microanalysis}, 
+publisher={Cambridge University Press}, 
+author={Sadre, Robbie and Ophus, Colin and Butko, Anastasiia and Weber, Gunther H.}, 
+year={2021}, 
+pages={1–11}
+}
 
 ```
