@@ -63,23 +63,10 @@ jupyter notebook usage.ipynb
 
 If you use this for research, please cite the original paper:
 
-> Robbie Sadre, Colin Ophus, Anstasiia Butko, Gunther H Weber. "Deep Learning Segmentation of Complex Features in Atomic-Resolution Phase Contrast Transmission Electron Microscopy Images". In arXiv preprint arXiv:2012.05322.
+> Sadre, R., Ophus, C., Butko, A., & Weber, G. (2021). Deep Learning Segmentation of Complex Features in Atomic-Resolution Phase-Contrast Transmission Electron Microscopy Images. Microscopy and Microanalysis, 1-11. doi:10.1017/S1431927621000167
+
 
 ```
-@ARTICLE{2020arXiv201205322S,
-       author = {{Sadre}, Robbie and {Ophus}, Colin and {Butko}, Anstasiia and {Weber}, Gunther H},
-        title = "{Deep Learning Segmentation of Complex Features in Atomic-Resolution Phase Contrast Transmission Electron Microscopy Images}",
-      journal = {arXiv e-prints},
-     keywords = {Condensed Matter - Materials Science, Computer Science - Machine Learning},
-         year = 2020,
-        month = dec,
-          eid = {arXiv:2012.05322},
-        pages = {arXiv:2012.05322},
-archivePrefix = {arXiv},
-       eprint = {2012.05322},
- primaryClass = {cond-mat.mtrl-sci},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2020arXiv201205322S},
-      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
+@article{sadre_ophus_butko_weber_2021, title={Deep Learning Segmentation of Complex Features in Atomic-Resolution Phase-Contrast Transmission Electron Microscopy Images}, DOI={10.1017/S1431927621000167}, journal={Microscopy and Microanalysis}, publisher={Cambridge University Press}, author={Sadre, Robbie and Ophus, Colin and Butko, Anastasiia and Weber, Gunther H.}, year={2021}, pages={1–11}}
 
 ```
